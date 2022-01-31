@@ -1,4 +1,7 @@
 Instalação Express
 ==================
-
 npm install express --save
+
+Subir Servidor
+=================
+node index.js
